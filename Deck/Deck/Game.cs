@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Game
-{
     class Game
     {
         List<player> players = new List<player>();
@@ -32,4 +30,3 @@ namespace Game
             Console.WriteLine("{0} has won the game!!!!", player.Name);
         }
     }
-}
