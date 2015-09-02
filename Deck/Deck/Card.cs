@@ -10,7 +10,7 @@ public enum Colors
 
 public class Card
 {
-    private Card(Colors col, int No)
+    public Card(Colors col, int No)
     {
         CardCol = col;
         CardNo = No;
