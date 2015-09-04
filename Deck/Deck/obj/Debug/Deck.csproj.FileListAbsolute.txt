@@ -7,3 +7,7 @@ C:\Users\kristian\SWDcardGame\Deck\Deck\bin\Debug\Deck.exe
 C:\Users\kristian\SWDcardGame\Deck\Deck\bin\Debug\Deck.pdb
 C:\Users\kristian\SWDcardGame\Deck\Deck\obj\Debug\Deck.exe
 C:\Users\kristian\SWDcardGame\Deck\Deck\obj\Debug\Deck.pdb
+D:\gitTest\SWDcardGame\Deck\Deck\bin\Debug\Deck.exe
+D:\gitTest\SWDcardGame\Deck\Deck\bin\Debug\Deck.pdb
+D:\gitTest\SWDcardGame\Deck\Deck\obj\Debug\Deck.exe
+D:\gitTest\SWDcardGame\Deck\Deck\obj\Debug\Deck.pdb

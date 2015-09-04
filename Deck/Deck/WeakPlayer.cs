@@ -1,12 +1,14 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-public class Player : IPlayer
+class WeakPlayer : IPlayer
 {
-
     private List<Card> playerCards = new List<Card>();
 
-    public Player(string name)
+    public WeakPlayer(string name)
     {
         Name = name;
     }
@@ -35,6 +37,11 @@ public class Player : IPlayer
     public void AddCard(Card card)
     {
         playerCards.Add(card);
-    }
 
+        if (playerCards.Count > 4)
+        {
+            var random = new Random();
+            playerCards.RemoveAt(random.Next(1, playerCards.Count));
+        }
+    }
 }
