@@ -37,10 +37,23 @@ class Game
 
         for (int i = 0; i < players.Count; i++)
         {
-            Console.WriteLine("My name is {0} and i have thease cards", players[i].Name );
+            Console.WriteLine("My name is {0} and i have thease cards", players[i].Name);
             players[i].ShowHand();
         }
 
+        Player winner = new Player("dad");
+        int currentWinner = 0;
+
+        for (int i = 0; i < players.Count; i++)
+        {
+            if (players[i].TotalValueOfHand() >= currentWinner)
+            {
+                winner = players[i];
+            }
+
+        }
+
+        AnnounceWinner(winner);
 
     }
 

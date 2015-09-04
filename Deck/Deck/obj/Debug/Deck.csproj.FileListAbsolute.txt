@@ -1,3 +1,9 @@
 C:\Users\david\Documents\Visual Studio 2015\Projects\New folder\Deck\Deck\bin\Debug\Deck.exe.config
 D:\gitTest\SWDcardGame\Deck\Deck\bin\Debug\Deck.exe.config
 D:\gitTest\SWDcardGame\Deck\Deck\obj\Debug\Deck.csprojResolveAssemblyReference.cache
+C:\Users\kristian\SWDcardGame\Deck\Deck\bin\Debug\Deck.exe.config
+C:\Users\kristian\SWDcardGame\Deck\Deck\obj\Debug\Deck.csprojResolveAssemblyReference.cache
+C:\Users\kristian\SWDcardGame\Deck\Deck\bin\Debug\Deck.exe
+C:\Users\kristian\SWDcardGame\Deck\Deck\bin\Debug\Deck.pdb
+C:\Users\kristian\SWDcardGame\Deck\Deck\obj\Debug\Deck.exe
+C:\Users\kristian\SWDcardGame\Deck\Deck\obj\Debug\Deck.pdb
