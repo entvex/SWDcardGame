@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 public class Player
 {
 
@@ -14,7 +17,7 @@ public class Player
     {
         foreach (Card card in playerCards)
         {
-            Console.WriteLine(card.printcard());
+            card.PrintCard();
         }
     }
 
